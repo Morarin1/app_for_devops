@@ -1,0 +1,1 @@
+# Simple application on Django REST framework for exercises in devops.
